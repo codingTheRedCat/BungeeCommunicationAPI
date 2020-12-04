@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BungeeCommunicationAPI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BungeeCommunicationAPI_jar</output-path>
+    <root id="archive" name="BungeeCommunicationAPI_jar.jar">
+      <element id="module-output" name="BungeeCommunicationAPI" />
+    </root>
+  </artifact>
+</component>
