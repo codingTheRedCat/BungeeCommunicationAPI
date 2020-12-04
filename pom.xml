@@ -44,12 +44,4 @@
         </dependency>
     </dependencies>
 
-    <distributionManagement>
-        <repository>
-            <id>myMavenRepo</id>
-            <name>myMavenRepo</name>
-            <url>https://mymavenrepo.com/repo/Xy6icEaNt7d5C8NkQvru/</url>
-        </repository>
-    </distributionManagement>
-
 </project>
